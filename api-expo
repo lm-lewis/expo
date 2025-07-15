@@ -1,0 +1,179 @@
+[
+{
+    "id_event": 1,
+    "name_en": "Seattle Art Fair",
+    "name_fr": "Foire d'art de Seattle",
+    "location": "https://maps.app.goo.gl/Y4VJX4ArMKdrrmP56",
+    "latitude": 47.593882187630946,
+    "longitude": -122.33042004031356, 
+    "start_date": "2025-07-17",
+    "start_time": "18:00:00",
+    "end_date": "2025-07-20",
+    "end_time": "21:00:00",
+    "category_event": {
+        "id_cat": 1,
+        "category_name": "exposition"
+    },
+    "cost": "50$",
+    "status_event": {
+        "id_status": 1,
+        "status_name": "à venir"
+    },
+    "cover_img": "https://ik.imagekit.io/theartling/prod/tr:w-1080,h-1080,cm-pad_resize/events/Event/2f30460b98d54347a64c4b1cb481692b.png",
+    "description_en": "Seattle Art Fair, a one-of-a-kind showcase for the vibrant arts community of the Pacific Northwest, and a leading destination for the best in modern and contemporary art, returns to the Lumen Field Event Center for its ninth edition in July 2025. Working alongside Beneficiary Partner Seattle Art Museum, Artistic Director Nato Thompson, and the fair’s dedicated Host Committee, the Seattle Art Fair, founded by the late Paul G. Allen, is a celebrated and productive week bringing together the region’s strong collector base, the Pacific Northwest’s top museums and institutions, and an array of innovative public programming.",
+    "description_fr": "La Seattle Art Fair, une vitrine unique en son genre pour la communauté artistique dynamique du nord-ouest du Pacifique et une destination de premier plan pour le meilleur de l'art moderne et contemporain, revient au Lumen Field Event Center pour sa neuvième édition en juillet 2025. Travaillant aux côtés du partenaire bénéficiaire Seattle Art Museum, du directeur artistique Nato Thompson et du comité hôte dédié de la foire, la Seattle Art Fair, fondée par feu Paul G. Allen, est une semaine célèbre et productive réunissant la solide base de collectionneurs de la région, les meilleurs musées et institutions du nord-ouest du Pacifique et un éventail de programmes publics innovants.",
+    "organisateur": [
+        {
+            "id_org": 1,
+            "name": "AMP",
+            "role": "-",
+            "contact": "+1 212 518 6912",
+            "mail": "info@amp.events",
+            "website": "www.amp.events",
+            "photo": ""
+        }
+    ],    
+    "website": "https://seattleartfair.com/"
+},
+{
+    "id_event": 3,
+    "name_en": "Alberto Biasi. Politipi.",
+    "name_fr": "Alberto Biasi. Politipi.",
+    "location": "https://maps.app.goo.gl/hvMya84hxrHWpMrQ7",
+    "latitude": 45.45425004296704,
+    "longitude": 9.215003465061583, 
+    "start_date": "2025-09-26",
+    "start_time": "-",
+    "end_date": "2025-10-13",
+    "end_time": "-",
+    "category_event": {
+        "id_cat": 1,
+        "category_name": "exposition"
+    },
+    "cost": "-",
+    "status_event": {
+        "id_status": 1,
+        "status_name": "à venir"
+    },
+    "cover_img": "https://images.artnet.com/gallery-images/424378225/18d3d33d-8cc9-4e7c-8e9a-6a146d172dd9.jpg?x=550%40%211320xaD01NTAmdz0xMzIwJmY9Y292ZXImdD1s",
+    "description_en": "The exhibition, curated by Federico Sardella and produced in collaboration with the Alberto Biasi Archive, focuses on the 'Politipi' series of works created by Biasi starting in the late 1960s. In these works, in addition to capturing those typical elements capable of determining perceptual, optical, and dynamic tensions...",
+    "description_fr": "L'exposition, organisée par Federico Sardella et réalisée en collaboration avec les Archives Alberto Biasi, se concentre sur la série d'œuvres « Politipi » créées par Biasi à partir de la fin des années 1960. Dans ces œuvres, en plus de capturer ces éléments typiques capables de déterminer les tensions perceptuelles, optiques et dynamiques...",
+    "organisateur": [
+        {
+            "id_org": 1,
+            "name": "Alberto Biasi",
+            "role": "-",
+            "contact": "-",
+            "mail": "-",
+            "website": "-",
+            "photo": ""
+        }
+    ],
+    "website": "https://www.artnet.com/galleries/dep-art/alberto-biasi-politipi-/"
+},
+{
+    "id_event": 2,
+    "name_en": "Artexpo New York",
+    "name_fr": "Artexpo New York",
+    "location": "",
+    "latitude": 40.749549012096985,
+    "longitude": -74.00464845972407, 
+    "start_date": "2026-04-06",
+    "start_time": "-",
+    "end_date": "2026-04-12",
+    "end_time": "-",
+    "category_event": {
+        "id_cat": 1,
+        "category_name": "exposition"
+    },
+    "cost": "-",
+    "status_event": {
+        "id_status": 1,
+        "status_name": "à venir"
+    },
+    "cover_img": "https://storage.googleapis.com/msgsndr/D4QFbT8sWxkcY7JSWrbW/media/66839bdc3f34235e116d8987.jpeg",
+    "description_en": "Welcome to Artexpo New York, the annual spring event that transforms Manhattan into a flourishing art scene! Immerse yourself in an inspiring gathering of artists, galleries, collectors, and enthusiasts.",
+    "description_fr": "Bienvenue à Artexpo New York, l'événement annuel du printemps qui transforme Manhattan en une scène artistique florissante ! Plongez dans un rassemblement inspirant d’artistes, de galeries, de collectionneurs et de passionnés.",
+    "organisateur": [
+        {
+            "id_org": 1,
+            "name": " AGI Fine Art,",
+            "role": "-",
+            "contact": "(+1) 212-226-4151",
+            "mail": "info@agifineart.com",
+            "website": "https://agifineart.com/",
+            "photo": "https://agifineart.com/wp-content/uploads/2024/03/agi-fine-art-logo-300x50.png"
+        }
+    ],    
+    "website": "https://seattleartfair.com/"
+},
+{
+    "id_event": 5,
+    "name_en": "Frieze Seoul",
+    "name_fr": "Frieze Séoul",
+    "location": "https://maps.app.goo.gl/iE8Cqjhd9QS8d3EeA",
+    "latitude": 37.51282707126154,
+    "longitude": 127.05877648465845,  
+    "start_date": "2025-09-03",
+    "start_time": "11:00:00",
+    "end_date": "2025-09-06",
+    "end_time": "19:00:00",
+    "category_event": {
+        "id_cat": 1,
+        "category_name": "exposition"
+    },
+    "cost": "45$",
+    "status_event": {
+        "id_status": 1,
+        "status_name": "à venir"
+    },
+    "cover_img": "https://ik.imagekit.io/theartling/prod/tr:w-1080,h-1080,cm-pad_resize/events/Event/342ddd7172c6478eadd05887a64b191a.png",
+    "description_en": "Frieze Seoul will offer both local and international audiences an opportunity to explore the best art from around the world, in addition to an unmissable week of events and activations which will be held in the city during Frieze Week. Happening in partnership with the Galleries Association of Korea, Frieze Seoul celebrates the city’s thriving creative community. The fair takes place at COEX, in the Gangnam district in the heart of Seoul.",
+    "description_fr": "Frieze Seoul offrira aux publics locaux et internationaux l'occasion d'explorer les meilleurs arts du monde entier, en plus d'une semaine incontournable d'événements et d'activations qui se tiendront dans la ville pendant la Frieze Week. Organisée en partenariat avec l'Association des galeries de Corée, Frieze Seoul célèbre la communauté créative florissante de la ville. La foire a lieu au COEX, dans le quartier de Gangnam, au cœur de Séoul.",
+    "organisateur": [
+        {
+            "id_org": 1,
+            "name": "Frieze ",
+            "role": "-",
+            "contact": "+1 212 463 7488",
+            "mail": "infonyc@frieze.com",
+            "website": "https://www.frieze.com/partners",
+            "photo": "https://www.frieze.com/themes/frieze/src/images/FRIEZE.png"
+        }
+    ],
+    "participant": [
+        {
+            "id_part": 1,
+            "nom": "BMW Group",
+            "role": "",
+            "provenance": "http://bmwgroup.com/en.html",
+            "photo": "https://static.frieze.com/files/styles/frieze_teaser/public/content-block/image-link/bmw_thumbnail_0.png?itok=uI_j8K3D"
+        },
+        {
+            "id_part": 2,
+            "nom": "illy",
+            "role": "",
+            "provenance": "https://www.illy.com/en-us/home",
+            "photo": "https://static.frieze.com/files/styles/frieze_teaser/public/content-block/image-link/illy_thumbnail_0.png?itok=BDXp-rnM"
+        },
+        {
+            "id_part": 3,
+            "nom": "LG OLED",
+            "role": "",
+            "provenance": "https://www.lg.com/uk/",
+            "photo": "https://static.frieze.com/files/styles/frieze_teaser/public/content-block/image-link/lg-oled_0.jpeg?VersionId=oYZNM4I0yE8tQzVRE.KGerICCLkfYduJ&itok=1mnkyqXu"
+        },
+        {
+            "id_part": 4,
+            "nom": "Ruinart",
+            "role": "",
+            "provenance": "https://www.ruinart.com/",
+            "photo": "https://static.frieze.com/files/styles/frieze_teaser/public/content-block/image-link/ruinart_thumbnail_0.png?itok=CJyiJoTc"
+        }
+    ],
+    "website": "https://www.frieze.com/fairs/frieze-seoul"
+  }
+]
+
+
+
